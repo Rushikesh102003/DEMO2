@@ -8,6 +8,11 @@ public class B
   {
     System.out.println("hello");
   }
+public class C
+{
+System.out.println("bye");
+}
+
   
 
 }
