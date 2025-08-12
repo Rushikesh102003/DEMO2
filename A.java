@@ -1,8 +1,13 @@
 public class A
-{
-public Static void main(String args[])
+
 {
 System.out.println("Rushikesh");
 }
+
+public class B
+  {
+    System.out.println("hello");
+  }
+  
 
 }
